@@ -8,3 +8,5 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 2. Clone this repo as ~/.config/nvim
 
+3. From neovim run `:Copilot setup` to set up GitHub Copilot.
+
