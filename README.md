@@ -16,9 +16,13 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 [VIM Cheat Sheet](https://vim.rtorr.com/)
 
-### Telescope
+### General
 
 - `<leader>pv` - Open file explorer view
+- `<leader>f` - Format file
+
+### Telescope
+
 - `<leader>ff` - Fuzzy find files
 - `<leader>fg` - Fuzzy find text
 - `<leader>fb` - Fuzzy find buffers
@@ -35,6 +39,25 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 - `<leader>3` - Open Harpoon window 3
 - `<leader>4` - Open Harpoon window 4
 - `<leader>5` - Open Harpoon window 5
+
+### LSP
+
+- `<gD>` - Go to declaration
+- `<gd>` - Go to definition
+- `<K>` - Hover
+- `<gr>` - Go to references
+- `<gs>` - Signature help
+- `<gi>` - Implementation
+- `<gt>` - Type definition
+- `<leader>gw` - Document symbol
+- `<leader>gW` - Workspace symbol
+- `<leader>af` - Code action
+- `<leader>ah` - Hover
+- `<leader>ar` - Rename
+- `<leader>ai` - Incoming calls
+- `<leader>ao` - Outgoing calls
+- `<leader>ee` - Show diagnostics
+- `<leader>=` - Format lines
 
 ### Fugitive
 
