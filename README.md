@@ -6,9 +6,11 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 1. Install [ripgrep](https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation).
 
-2. Clone this repo as ~/.config/nvim
+1. Clone this repo as ~/.config/nvim
 
-3. From neovim run `:Copilot setup` to set up GitHub Copilot.
+1. From neovim run `:Copilot setup` to set up GitHub Copilot.
+
+1. Install [prettierd](https://github.com/fsouza/prettierd?tab=readme-ov-file#installation-guide) for formatting.
 
 ## Keymaps
 
