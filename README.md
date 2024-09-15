@@ -20,6 +20,8 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 - `<leader>pv` - Open file explorer view
 - `<leader>f` - Format file
+- `<C-o>` - Jump back
+- `<C-i>` - Jump forward
 
 ### Telescope
 
