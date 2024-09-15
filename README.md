@@ -6,7 +6,11 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 1. Install [ripgrep](https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation).
 
-1. Clone this repo as ~/.config/nvim
+1. Clone this repo to the appropriate location for the platform:
+
+- Linux: `~/.config/nvim`
+- Mac: `~/.config/nvim`
+- Windows: `~/AppData/Local/nvim/`
 
 1. From neovim run `:Copilot setup` to set up GitHub Copilot.
 
