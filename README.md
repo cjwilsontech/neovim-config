@@ -68,3 +68,7 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 ### Undotree
 
 - `<leader>u` - Toggle undotree
+
+### Copilot Chat
+
+- `:CopilotChat <input>` - Send a message to Copilot
