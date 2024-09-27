@@ -4,8 +4,6 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 ## Installation
 
-1. Install [ripgrep](https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation).
-
 1. Clone this repo to the appropriate location for the platform:
 
 - Linux: `~/.config/nvim`
@@ -14,7 +12,9 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 1. From neovim run `:Copilot setup` to set up GitHub Copilot.
 
-1. Install [prettierd](https://github.com/fsouza/prettierd?tab=readme-ov-file#installation-guide) for formatting.
+1. Install the necessary dependencies. Scripts that include the necessary dependencies are provided for the following platforms:
+
+- Arch Linux: `./install-arch.sh`
 
 ## Keymaps
 
