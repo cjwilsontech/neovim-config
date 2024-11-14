@@ -76,3 +76,4 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 ### Copilot Chat
 
 - `:CopilotChat <input>` - Send a message to Copilot
+- `:Copilot disable` - Disable Copilot
