@@ -77,3 +77,7 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 - `:CopilotChat <input>` - Send a message to Copilot
 - `:Copilot disable` - Disable Copilot
+
+### Leetcode
+
+- `nvim leetcode.nvim` - Open Leetcode plugin
