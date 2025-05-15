@@ -69,6 +69,10 @@ My personal neovim configuration, loosely based off of [ThePrimeagen's configura
 
 - `<leader>gs` - Git status
 
+### Neotree
+
+- `<leader>n` - Toggle neotree
+
 ### Undotree
 
 - `<leader>u` - Toggle undotree
